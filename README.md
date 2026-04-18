@@ -46,16 +46,6 @@ An e-commerce marketing team ran a controlled experiment comparing two landing p
 
 ---
 
-## How to Run
-
-```bash
-git clone https://github.com/Danielvillamilc/ab-test-landing-page.git
-pip install pandas numpy scipy statsmodels matplotlib seaborn
-jupyter notebook S9_Version_Student_Proyecto_Landing_Experiment.ipynb
-```
-
----
-
 ## Author
 
 **Daniel Villamil** — Data Analytics · Bogotá, Colombia · [GitHub](https://github.com/Danielvillamilc)
